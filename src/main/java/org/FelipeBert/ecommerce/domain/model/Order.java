@@ -4,7 +4,6 @@ import jakarta.persistence.*;
 import java.util.ArrayList;
 import java.util.List;
 
-//Todo : Implement Order Entity Service
 @Entity(name = "CustomerOrder")
 public class Order {
     @Id
